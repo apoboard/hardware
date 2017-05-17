@@ -12,16 +12,16 @@ This section will cover all the information you'll need to start hacking your ey
 
 Arduino IDE Settings
 ----------------------
-Arduino IDE Version - 1.6.8
-Board - Arduino Uno
-Baud Rate - 115200
+* Arduino IDE Version - 1.6.8
+* Board - Arduino Uno
+* Baud Rate - 115200
 
 Hardware Pin connections
 ------------------
-Button Pin - D2
-WS2812 LED Pin - D7
-IR_RX Pin - D8
-IR_TX Pin - D9
+* Button Pin - D2
+* WS2812 LED Pin - D7
+* IR_RX Pin - D8
+* IR_TX Pin - D9
 
 License Information
 -------------------
