@@ -23,6 +23,12 @@ Hardware Pin connections
 * IR_RX Pin - D8
 * IR_TX Pin - D9
 
+Assembly Instructions
+-------------------
+<p align="center">
+<img src = "https://cdn.sparkfun.com/assets/home_page_posts/2/3/9/8/AssemblyInstructions.png">
+</p>
+
 License Information
 -------------------
 
