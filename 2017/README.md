@@ -8,7 +8,7 @@ This board uses an Atmega328p microcontroller (the same device in the Arduino Un
 
 Hacking Your Eyeball
 =======================================
-This section will cover all the information you'll need to start hacking your eye via hardware, software or both.
+This section will cover all the information you'll need to start hacking your eye via hardware.
 
 Arduino IDE Settings
 ----------------------
