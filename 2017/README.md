@@ -29,6 +29,9 @@ Assembly Instructions
 <img src = "https://cdn.sparkfun.com/assets/home_page_posts/2/3/9/8/AssemblyInstructions.png">
 </p>
 
+
+See the [Software README](https://github.com/apoboard/software/blob/master/2017/README.md) for more info. 
+
 License Information
 -------------------
 
